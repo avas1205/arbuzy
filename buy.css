@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://a.d-cd.net/djmi1WXgzkotZkt2yRlRUjxTeRY-1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+p {
+    color: green;
+    font-size: 3rem;
+}

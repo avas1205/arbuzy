@@ -1,0 +1,43 @@
+.btn {
+    border: 5px solid rebeccapurple;
+    border-radius: 15px;
+    margin-right: 25px;
+    padding: 8px 16px;
+    background-color: #d58512;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+    font-size: 30px;
+    font-weight: 2000;
+    text-decoration: none;
+}
+
+.btn:hover {
+    border: 5px solid green;
+    border-radius: 15px;
+    margin-right: 25px;
+    padding: 8px 16px;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+    font-size: 30px;
+    font-weight: 2000;
+    text-decoration: none;
+
+    transition: background-color, border 1s;
+}
+
+.header {
+    margin: 50px 20px;
+    position: absolute;
+}
+
+label {
+    color: #ffff;
+}
+
+body {
+    background-image: url("https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65297e06816f970013f1fede_65297e8b1ecf8a26c06386e2/scale_1200");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
